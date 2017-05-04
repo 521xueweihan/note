@@ -1,0 +1,1 @@
+- [上传图片并预览](http://stackoverflow.com/questions/14069421/show-an-image-preview-before-upload)

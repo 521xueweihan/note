@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<title>上传图片并预览</title>
+</head>
+<body>
+	<input type="file" id="files" />
+	<img id="image" />
+
+<script>
+document.getElementById("files").onchange = function () {
+    var reader = new FileReader();
+
+    reader.onload = function (e) {
+        // 文件的数据
+        document.getElementById("image").src = e.target.result;
+    };
+
+    // 把数据当作url用于展示
+    reader.readAsDataURL(this.files[0]);
+};
+</script>
+</body>
+</html>

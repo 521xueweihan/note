@@ -5,6 +5,6 @@
 
 3. ipython：交互式python解释器，带有自动补全等高级功能。安装：`sudo pip install ipython`
 
-4. httpie：通过命令行测试web服务
+4. httpie：通过命令行测试web服务，[使用方法](https://httpie.org/doc#examples)
 
 5. unittest、coverage：第一个用于单元测试，第二个用于检测代码的测试覆盖率。

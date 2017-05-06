@@ -87,13 +87,17 @@ print value4.__name__
 ## 魔法方法
 
 # 性能
-## 生成器
 ## GIL
+GIL（Global interpreter lock）—— 全局解释器锁。解释器在解释执行任何
+## 生成器
+
 ## 多线程
 ## 多进程
 ## 事件循环（event loop）
+## gentlet
 ## Gevent
-### gentlet
+## PyPy
+
 
 # Web
 ### WSGI

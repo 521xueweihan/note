@@ -1,4 +1,7 @@
-# 对Markdown的支持
+### tab 转 space
+`Edit > Lines > Auto Indent`
+
+### 对Markdown的支持
 - Markdown预览
 
   使用 crtl＋shift＋M  

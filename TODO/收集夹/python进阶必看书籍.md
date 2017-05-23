@@ -1,6 +1,0 @@
-## 书籍(中文)
-- [python进阶](https://eastlakeside.gitbooks.io/interpy-zh/content/)
-- [PyMOTW(一周一模块)](https://pymotwcn.readthedocs.org/en/latest/index.html)
-- [深入python3](http://dipyzh.bitbucket.org/)
-- [极客学院wiki的python实战](http://wiki.jikexueyuan.com/project/python-actual-combat/tutorial-10.html)
-- [Python CookBook](https://github.com/yidao620c/python3-cookbook)

@@ -22,6 +22,7 @@ def after_request(response):
 @app.errorhandler(Exception)
 def exceptions(e):
     tb = traceback.format_exc()
+    tb = tb.decode('utf-8')
     logger.error('%s %s %s %s 5xx INTERNAL SERVER ERROR\n%s',
                  request.environ.get('HTTP_X_REAL_IP', request.remote_addr),
                  request.method, request.scheme, request.full_path, tb)

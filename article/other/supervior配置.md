@@ -72,7 +72,7 @@ supervisorctl 是 supervisord 的命令行客户端工具，使用的配置和 s
 - start program_name   # 启动 指定的程序
 - restart program_name # 重启 指定的程序
 - tail -f program_name # 查看 该程序的日志
-- update               # 重启配置文件修改过的程序（修改了配置，通过这个命令加载新的配置)
+- update               # 重启配置文件修改过的程序（**修改了配置，通过这个命令加载新的配置**)
 
 也可以直接通过 shell 命令操作：
 - supervisorctl status

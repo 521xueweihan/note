@@ -58,8 +58,11 @@ GitHub 算是一个‘程序员的社交’网站，就像微博一样，可以 
 
 至此为止，就可以根据自己的兴趣爱好，找自己感兴趣的项目，查看浏览别人的代码和思路了。学习了别人的代码，是时候开始自己的项目了！
 
-下面会依次介绍如何创建项目、把自己的代码托管在 GitHub上、向别的项目提交代码（未完待续）
-
 ## 四、开始自己的项目
-[创建自己的项目](https://guides.github.com/activities/hello-world/)
-## 五、参与到开源项目
+1. 创建项目
+2. 填写项目基本信息
+3. 设置 GitHub 账号的 SSH key，不同操作系统教程如下：
+	- [Mac](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/#platform-mac)
+	- [Windows](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/#platform-windows)
+	- [Linux](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/#platform-linux)
+4. 增加修改并推送到项目上
